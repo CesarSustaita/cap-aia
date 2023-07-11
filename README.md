@@ -13,3 +13,9 @@ terminales que se tienen en el sistema por defecto de windows en el podemos
 gestionar en este caso una terminal adaptada para la empresa (AIA)  al momento
 de abrir poder tener las configuraciones. 
 ****
+
+## Git
+
+## Remotes
+
+- [Link Excalidraw](https://excalidraw.com/#json=w2zLe4osBpotLTdna3hwS,epG1EBK2lkG9sc4o7QMTVQ)
